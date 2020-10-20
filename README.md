@@ -1,4 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Developer
+
+This project is made by Anish Prashun.
 
 ## Available Scripts
 
